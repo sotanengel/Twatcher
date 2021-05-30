@@ -1,0 +1,13 @@
+current directory: /Users/nagaharasatsudai/Desktop/monodukuri/ruby/Twatcher/vendor/bundle/ruby/2.7.0/gems/json-1.8.6/ext/json
+/Users/nagaharasatsudai/.rbenv/versions/2.7.3/bin/ruby -I /Users/nagaharasatsudai/.rbenv/versions/2.7.3/lib/ruby/2.7.0 -r ./siteconf20210530-67914-1vxih0e.rb extconf.rb
+creating Makefile
+
+current directory: /Users/nagaharasatsudai/Desktop/monodukuri/ruby/Twatcher/vendor/bundle/ruby/2.7.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/nagaharasatsudai/Desktop/monodukuri/ruby/Twatcher/vendor/bundle/ruby/2.7.0/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/nagaharasatsudai/Desktop/monodukuri/ruby/Twatcher/vendor/bundle/ruby/2.7.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" install

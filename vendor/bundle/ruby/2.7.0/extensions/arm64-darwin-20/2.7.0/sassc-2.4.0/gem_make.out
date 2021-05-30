@@ -1,5 +1,5 @@
 current directory: /Users/nagaharasatsudai/Desktop/monodukuri/ruby/Twatcher/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
-/Users/nagaharasatsudai/.rbenv/versions/2.7.3/bin/ruby -I /Users/nagaharasatsudai/.rbenv/versions/2.7.3/lib/ruby/2.7.0 -r ./siteconf20210530-49905-4rfv5a.rb extconf.rb
+/Users/nagaharasatsudai/.rbenv/versions/2.7.3/bin/ruby -I /Users/nagaharasatsudai/.rbenv/versions/2.7.3/lib/ruby/2.7.0 -r ./siteconf20210530-67914-xafqlp.rb extconf.rb
 creating Makefile
 
 current directory: /Users/nagaharasatsudai/Desktop/monodukuri/ruby/Twatcher/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
@@ -77,4 +77,4 @@ linking shared-object sassc/libsass.bundle
 
 current directory: /Users/nagaharasatsudai/Desktop/monodukuri/ruby/Twatcher/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 libsass.bundle ./.gem.20210530-49905-13resn6/sassc
+/usr/bin/install -c -m 0755 libsass.bundle ./.gem.20210530-67914-17q4uoa/sassc

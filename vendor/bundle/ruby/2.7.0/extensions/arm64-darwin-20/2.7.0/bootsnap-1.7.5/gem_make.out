@@ -1,5 +1,5 @@
 current directory: /Users/nagaharasatsudai/Desktop/monodukuri/ruby/Twatcher/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.5/ext/bootsnap
-/Users/nagaharasatsudai/.rbenv/versions/2.7.3/bin/ruby -I /Users/nagaharasatsudai/.rbenv/versions/2.7.3/lib/ruby/2.7.0 -r ./siteconf20210530-49905-u9qtsk.rb extconf.rb
+/Users/nagaharasatsudai/.rbenv/versions/2.7.3/bin/ruby -I /Users/nagaharasatsudai/.rbenv/versions/2.7.3/lib/ruby/2.7.0 -r ./siteconf20210530-67914-yghuon.rb extconf.rb
 creating Makefile
 
 current directory: /Users/nagaharasatsudai/Desktop/monodukuri/ruby/Twatcher/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.5/ext/bootsnap
@@ -12,4 +12,4 @@ linking shared-object bootsnap/bootsnap.bundle
 
 current directory: /Users/nagaharasatsudai/Desktop/monodukuri/ruby/Twatcher/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.5/ext/bootsnap
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20210530-49905-1055d1a/bootsnap
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20210530-67914-u26nvb/bootsnap
