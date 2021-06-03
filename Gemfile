@@ -17,6 +17,10 @@ gem 'webpacker', '~> 5.0'
 gem 'turbolinks', '~> 5'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.7'
+# A super fast http parser for ruby. Read more: https://github.com/nodejs/http-parser
+gem 'http-parser', '~> 1.2', '>= 1.2.3'
+# Twitter Get library. Read more: https://github.com/sferik/twitter
+gem 'twitter', '~> 5.14'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use Active Model has_secure_password
